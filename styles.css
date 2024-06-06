@@ -1,4 +1,9 @@
 style type="text/css"
+
+body {
+    background-color: #f7f2ef;
+}
+
 *{
     margin: 0px;
     padding: 0px;
@@ -69,12 +74,12 @@ style type="text/css"
     clear: both;
 }
 #headerbanner-div{
-    width: 100%;
+    width: 95%;
     min-height: 100px;
     background-color: #664537;
     color: white;
     text-align: center;
-    line-height: 10px;
+    line-height: 5px;
     margin-bottom: 10px;
 }
 #introtextarea-div{
@@ -100,6 +105,18 @@ style type="text/css"
     width: 100%;
     min-height: 400px;
 }
+
+#sidebar-div {
+    width: 20%;
+    min-height: 400px;
+    background: lightgray;
+    font-family: arial;
+    float: left;
+    text-align: center;
+    line-height: 10px;
+}
+
+
 #main-div .box{
     width: 30%;
     min-height: 400px;
@@ -115,7 +132,7 @@ style type="text/css"
 }
 
 .box img {
-    max-width: 100%;
+    max-width: 250%;
     max-height: 100%;
 }
 
@@ -136,12 +153,12 @@ style type="text/css"
     top: 5px;
 }
 
-.address {
+.info {
     font-family: Arial;
     font-size: 20px;
     font-weight: bold;
     position: relative;
-    right: 330px;
+    right: 585px;
 }
 
 #wrapper-div{
