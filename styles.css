@@ -106,12 +106,17 @@ style type="text/css"
     width: 20%;
     min-height: 400px;
     background: lightgray;
-    font-family: arial;
     float: left;
-    text-align: center;
     line-height: 10px;
 }
 
+.contactUs {
+    width: 20%;
+    min-height: 400px;
+    background: lightgray;
+    float: left;
+    line-height: 10px;
+}
 
 #main-div .box{
     width: 30%;
@@ -145,7 +150,7 @@ style type="text/css"
     width: 15%;
     height: 15%;
     position: relative;
-    right: 580px;
+    right: 700px;
     top: 5px;
 }
 
@@ -154,7 +159,7 @@ style type="text/css"
     font-size: 20px;
     font-weight: bold;
     position: relative;
-    right: 585px;
+    right: 680px;
 }
 
 #wrapper-div{
